@@ -11,7 +11,7 @@ h1{
 	border: 2px solid black;
 	margin-left: 15px; 
 	margin-right: 15px;
-	margin-top: 15px;
+	margin-top: 30px;
 	box-sizing: border-box;
 }
 #etiqueta1{
@@ -47,73 +47,73 @@ h1{
 
 }
 @media (min-width: 992px){
-	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-6, .col-md-12{
+	.ramiro-1, .ramiro-2, .ramiro-3, .ramiro-4, .ramiro-6, .ramiro-12{
 		float: left;	
 
 	}
-	.col-md-1{
+	.ramiro-1{
 		width: 8.33%
 	}
-	.col-md-2{
+	.ramiro-2{
 		width: 16.66%
 	}
-	.col-md-3{
+	.ramiro-3{
 		width: 25%
 	}
-	.col-md-4{
+	.ramiro-4{
 		width: 33.33%
 	}
-	.col-md-6{
+	.ramiro-6{
 		width: 50%
 	}
-	.col-md-12{
+	.ramiro-12{
 		width: 100%
 	}
 }
 @media (min-width: 768px) and (max-width: 991px){
-	.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-6, .col-sm-12{
+	.luicito-1, .luicito-2, .luicito-3, .luicito-4, .luicito-6, .luicito-12{
 		float: left;
 	}
-	.col-sm-1{
+	.luicito-1{
 		width: 8.33%
 	}
-	.col-sm-2{
+	.luicito-2{
 		width: 16.66%
 	}
-	.col-sm-3{
+	.luicito-3{
 		width: 25%
 	}
-	.col-sm-4{
+	.luicito-4{
 		width: 33.33%
 	}
-	.col-sm-6{
+	.luicito-6{
 		width: 50%
 	}
-	.col-sm-12{
+	.luicito-12{
 		width: 100%
 	}
 }
 
 @media (max-width: 767px){
-	.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-6, .col-md-12{
+	.solfia-1, .solfia-2, .solfia-3, .solfia-4, .solfia-6, .ramiro-12{
 		float: left;
 	}
-	.col-xs-1{
+	.solfia-1{
 		width: 8.33%
 	}
-	.col-xs-2{
+	.solfia-2{
 		width: 16.66%
 	}
-	.col-xs-3{
+	.solfia-3{
 		width: 25%
 	}
-	.col-xs-4{
+	.solfia-4{
 		width: 33.33%
 	}
-	.col-xs-6{
+	.solfia-6{
 		width: 50%
 	}
-	.col-xs-12{
+	.solfia-12{
 		width: 100%
 	}
 }
