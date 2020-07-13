@@ -2,6 +2,9 @@ p{
 	margin:3px;
 	clear: right;
 }
+h1{
+	text-align: center;
+}
 
 #content{
 	background-color: gray;
